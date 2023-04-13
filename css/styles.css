@@ -67,7 +67,7 @@ a:hover {
 }
 
 .intro{
-    width: 30%;
+    width: 28%;
     margin: auto;
 }
 
@@ -85,7 +85,7 @@ a:hover {
 
 .skill-row{
     width: 50%;
-    margin: 100px auto 100px auto;
+    margin: 100px auto 120px auto;
     text-align: left;
     line-height: 2;
 }
